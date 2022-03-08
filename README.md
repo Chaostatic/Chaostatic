@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chaostatic
 - 👀 I’m interested in learning and coding.
-- 🌱 I’m currently learning C++ and PHP.
+- 🌱 I’m currently learning Java.
 - 📫 How to reach me email me at sheignnicole@gmail.com
 
 <!---
